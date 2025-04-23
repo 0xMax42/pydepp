@@ -4,10 +4,10 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pydepp"
-version = "0.1.0"
-description = "Python interface for the Digilent DEPP protocol using the Adept SDK"
-authors = [{ name = "Max Mustermann", email = "you@example.com" }]
-license = "MIT"
+version = "0.1.1"
+description = "Python bindings for the Digilent DEPP protocol"
+authors = [{ name = "0xMax42", email = "mail@0xMax42.io" }]
+license = { text = "MIT" }
 readme = "README.md"
 requires-python = ">=3.7"
 

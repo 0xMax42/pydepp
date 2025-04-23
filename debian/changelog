@@ -1,0 +1,11 @@
+pydepp (0.1.1) UNRELEASED; urgency=medium
+
+  * Update to match pyproject.toml
+
+ -- 0xMax42 <mail@0xMax42.io>  Wed, 23 Apr 2025 17:24:03 +0200
+
+pydepp (0.1.0) unstable; urgency=medium
+
+  * Initial release
+
+ -- 0xMax42 <mail@0xMax42.io>  Wed, 23 Apr 2025 17:00:00 +0200

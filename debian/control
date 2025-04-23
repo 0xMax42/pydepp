@@ -1,0 +1,13 @@
+Source: pydepp
+Section: python
+Priority: optional
+Maintainer: Dein Name <you@example.com>
+Build-Depends: debhelper-compat (= 13), dh-python, python3-all, pybuild-plugin-pyproject
+Standards-Version: 4.6.2
+Rules-Requires-Root: no
+
+Package: pydepp
+Architecture: all
+Depends: ${misc:Depends}, ${python3:Depends}
+Description: Python interface for the Digilent DEPP protocol
+  Provides a Pythonic interface to access Digilent FPGA boards over the DEPP bus using the Adept SDK.

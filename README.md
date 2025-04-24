@@ -33,22 +33,6 @@ PyDEPP is a Python library that provides a high-level, object-oriented interface
    pip install .
    ```
 
-### Debian Package
-
-You can also build and install the Debian package:
-
-1. Build the package:
-
-   ```bash
-   dpkg-buildpackage -us -uc
-   ```
-
-2. Install the package:
-
-   ```bash
-   sudo dpkg -i ../pydepp_0.1.1_all.deb
-   ```
-
 ## Usage
 
 ### Basic Example
